@@ -1,0 +1,34 @@
+.c{
+	background: url(8.jpg) no-repeat;
+	background-size: cover;
+	height: 100%;
+	
+	
+}
+h1{
+	font-style: italic;
+	font-size: 25px;
+    float: right;
+  
+}
+a{
+	text-decoration: none;
+
+ padding: 50px;
+}
+.dic{
+	padding: 20px;
+	overflow: hidden;
+	background-color: darkgoldenrod;
+}
+.dic a:hover{
+	background-color:peachpuff;
+	color: black;
+}
+.dic a{
+	color: black;
+	text-align: center;
+	text-decoration: none;
+	font-size: 17px;
+
+}

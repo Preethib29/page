@@ -1,0 +1,44 @@
+a{
+	text-decoration: none;
+
+ padding: 50px;
+}
+.dic{
+	padding: 20px;
+	overflow: hidden;
+	background-color: black;
+}
+.dic a:hover{
+	background-color:whitesmoke;
+	color: black;
+}
+.dic a{
+	color: #f2f2f2;
+	text-align: center;
+	text-decoration: none;
+	font-size: 17px;
+
+}
+.hi{
+	background: url(6.jpg) no-repeat;
+	background-size: cover;
+	height: 550px;
+	width: 1500px;
+	background-color: rgba(0, 0, 0, 1.0);
+	
+}
+h1{
+	text-align:center;
+	border-width:900px;
+	font-style: italic;
+	font-size:40px;
+	color: white;
+	background-color: black;
+}
+h3{
+	text-align:center;
+	border-width:900px;
+	font-style: italic;
+	font-size:40px;
+	color: white;
+}
